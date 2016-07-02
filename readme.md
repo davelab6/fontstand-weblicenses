@@ -6,6 +6,10 @@ Not all foundries in Fontstand offer webfont licences. And if they do, they’re
 
 *The information on this page is definitely incomplete! Make sure to read the licence agreement before buying a font.*
 
+## [American Type Founders](http://atftype.com/)
+
+Webfonts via [Webtype](http://www.webtype.com/catalog/?foundry=109)
+
 ## [Bold Monday](https://www.boldmonday.com/support/licenses/)
 
 - Self hosting
@@ -13,12 +17,22 @@ Not all foundries in Fontstand offer webfont licences. And if they do, they’re
 - Per domain
 - Amount of visitors
 
+Alternatively fonts are available at [Webtype](http://www.webtype.com/)
+
 ## [Commercial Type](https://commercialtype.com/user_license)
 
 - Self hosting
-- One time or yearly fee
+- One time fee
 - Per domain
 - Amount of visitors
+
+## [Coppers and Brasses](http://coppersandbrasses.com/faq/)
+
+Currently no web licences available.
+
+## [Darden Studio](http://www.dardenstudio.com/faq#question-1-1)
+
+Web licences [on request](http://www.dardenstudio.com/faq#question-1-1)
 
 ## [DSType Foundry](http://www.dstype.com/)
 
@@ -43,6 +57,15 @@ Doesn’t offer webfont licences yet.
 
 > We are actively working on versions of our fonts to be implemented with CSS @font-face embedding and are licensing select styles for enterprise-level implementations.
 
+## [Just Another Foundry](http://justanotherfoundry.com/legal/EULA%20for%20JAF%20Web%20fonts.pdf)
+
+- Self hosting
+- One time fee
+- Per domain
+- Amount of pageviews
+
+Fonts are also [available on Typekit](https://typekit.com/foundries/just-another-foundry).
+
 ## [LettError Type](http://letterror.com/fontcatalog/)
 
 Webfonts are handled by the different vendors that sell the fonts. 
@@ -61,10 +84,28 @@ Webfonts are handled by the different vendors that sell the fonts.
 - Per domain
 - Amount of visitors
 
+Alternatively fonts are available at [Webtype](http://www.webtype.com/)
+
 ## [Mark Simonson Studio](http://www.marksimonson.com/info/purchasing)
 
 Webfonts are handled by the different vendors that sell the fonts. 
 
+## [Monokrom](https://monokrom.no/page/about_us/licensing_terms)
+
+- Self hosting
+- One time fee
+- Pageviews
+- Installable fonts included
+
+Alternatively via [Webtype](http://www.webtype.com/catalog/?foundry=96)
+
+## [MVB Fonts](http://mvbfonts.com/webfonts)
+
+Webfonts are [handled by Webtype](http://mvbfonts.com/webfonts).
+
+## [Okay Type](http://okaytype.com/hello/friend)
+
+Webfonts are available at [Webtype](http://www.webtype.com/)
 
 ## [Process](http://processtypefoundry.com/licensing/webfont-license-agreement)
 
@@ -89,6 +130,13 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 - Per domain (no mention, but I assume)
 - Price is per *5000 monthly pageviews*
 
+## [Rosetta](https://www.rosettatype.com/licence#)
+
+- Self hosting
+- One time fee
+- 1, 5 or 15 domains
+- 500k pageviews/month
+
 ## [Storm Type Foundry](https://www.stormtype.com/licenses/webfont)
 
 - Tracking code
@@ -110,6 +158,13 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 - Per domain
 - Pageview based (additional licence required after exceeding for three consecutive months)
 - One time fee, yearly fee or a biannual fee
+
+## [Typejockeys](http://www.typejockeys.com/webfonts)
+
+- Self hosted
+- Pageview based
+- One time fee
+- Unclear how many domains (not mentioned)
 
 ## [TypeTogether](http://www.type-together.com/catalogue)
 
